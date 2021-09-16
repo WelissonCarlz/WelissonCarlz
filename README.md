@@ -11,7 +11,7 @@
   <img align="center" alt="We-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="We-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="We-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="We-yoda" height="160" width="250"  src="https://giffiles.alphacoders.com/121/12174.gif">
+  <img align="right" alt="We-yoda" height="200" width="300"  src="https://giffiles.alphacoders.com/121/12174.gif">
 </div>
   
  
