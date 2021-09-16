@@ -11,8 +11,7 @@
   <img align="center" alt="We-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="We-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="We-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="We-yoda" height="150" width="200"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
-  <img align="right" alt="We-yoda" height="150" width="200"  src="https://plugcitarios.com/blog/wp-content/uploads/2015/03/1410967177-dragonballzgif-0.gif">
+  <img align="right" alt="We-yoda" height="150" width="200"  src="https://data.whicdn.com/images/242557345/original.gif">
 </div>
   
  
