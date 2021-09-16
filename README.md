@@ -11,7 +11,7 @@
   <img align="center" alt="We-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="We-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="We-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="We-yoda" height="200" width="100"  src="https://i0.wp.com/pa1.narvii.com/5852/e8d0bb72c78325241e83f771c5baea04b11fe1d5_hq.gif">
+  <img align="right" alt="We-yoda" height="200" width="100"  src="https://giffiles.alphacoders.com/315/31597.gif">
 </div>
   
  
