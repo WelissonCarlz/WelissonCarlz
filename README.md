@@ -1,5 +1,5 @@
 ## Oiii! Eu sou o Welisson Carlos
-✔️ Atualmente estudante do Instituto Federal de Goias - Campus Anápolis 
+✔️ Atualmente estudante do Instituto Federal de  Goiás - Campus Anápolis 
 
 <div>
   <a href="https://github.com/welissoncarlz">
