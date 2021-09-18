@@ -12,4 +12,6 @@
   <img align="center" alt="We-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="We-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="We-yoda" height="200" width="300"  src="https://data.whicdn.com/images/152926369/original.gif">
+  
+  ![Snake animation](https://github.com/welissoncarlz/welissoncarlz/blob/output/github-contribution-grid-snake.svg)
 </div>
